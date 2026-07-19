@@ -135,7 +135,7 @@ Built With:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyushRaj-005&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AyushRaj-005&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://streak-stats.demolab.com?user=AyushRaj-005&theme=tokyonight&hide_border=true"/>
 
